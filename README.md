@@ -1,5 +1,5 @@
 # Profile-
-<h1 align="center">Hi 👋, I’m Valusa Nikil</h1>
+<h1 align="center">Hi 👋, I’m \Vishnupriya Rachakatla</h1>
 
 <!--**valusanikil/valusanikil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
